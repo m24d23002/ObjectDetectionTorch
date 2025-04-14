@@ -7,7 +7,7 @@ import tempfile
 import os
 
 
-
+#PageConfig
 st.set_page_config(page_title="Multi Object Detection", layout="centered")
 st.title("🚗 Multi Object Detection on Road Scenes")
 st.markdown("Upload an image or video to detect multiple road objects using YOLOv5.")
